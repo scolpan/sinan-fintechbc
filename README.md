@@ -1,9 +1,9 @@
 # sinan-fintechbc
 
 
-##Fintech Case Study
+## Fintech Case Study
 
-##Header 3
+## Header 3
 
 
 
