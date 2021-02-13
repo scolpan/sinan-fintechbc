@@ -22,15 +22,15 @@ print("Hello")
 
 ```
 
-Some text in which I cite an author.[^fn1]
-More text. Another citation.[^fn2]
+Some text in which I cite an author.[^1]
+More text. Another citation.[^2]
 
 
 
 
-[^fn1]: John Doe, "Essay", July 22, 2015, www.github.com
+[^1]: John Doe, "Essay", July 22, 2015, www.github.com
 
-[^fn2]: Test www.thestar.com 
+[^2]: Test www.thestar.com 
 
 
 
