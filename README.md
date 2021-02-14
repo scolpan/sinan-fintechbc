@@ -48,14 +48,25 @@ Having BitAccess in the top 3 of the worlds biggest CATM manufacturers definitel
 #### References
 
 [^1]: About Invest Ottawa. https://www.investottawa.ca/about-us/
+
 [^2]: Is Attending Y Combinator Worth it? https://www.cuboh.com/blog/is-attending-y-combinator-worthit
+
 [^3]: CoinDesk. Bitcoin ATM Startup Joins YC's Incubator. https://www.coindesk.com/y-combinator-bitcoin-atm-startup-bitacess-incubator
+
 [^4]: Investopedia. ATMs. https://www.investopedia.com/terms/a/atm.asp
+
 [^5]: Coin ATM Radar. Bitcoin ATM Industry Statistics Charts. https://coinatmradar.com/charts/
+
 [^6]: BitAccess Git Repo. https://github.com/bitaccess
+
 [^7]: InvestoPedia. Bitcoin vs. Ethereum: What's the Difference? https://www.investopedia.com/articles/investing/031416/bitcoin-vs-ethereum-driven-different-purposes.asp
+
 [^8]: CoinDesk. Ethereum Is the Frontier of Financial Innovation. https://www.coindesk.com/ethereum-sandbox-financial-innovation
+
 [^9]: Decrypt.co. Large companies building on Ethereum. https://decrypt.co/36990/large-companies-building-on-ethereum
+
 [^10]: Etemad H. & Motaghi H. BitAccess - Re-Engineering the Current Global Cash Economy. Montreal, 2019
+
 [^11]: Coin ATM Radar. Speed of Crypto ATM Installations. https://coinatmradar.com/charts/gauge/
+
 [^12]: Coin ATM Radar. Crypto ATM Installations by Manufacturer. https://coinatmradar.com/charts/manufacturer-share/
