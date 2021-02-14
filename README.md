@@ -39,7 +39,7 @@ Having BitAccess in the top 3 of the world's largest CATM manufacturers puts Bit
 
 ### Recommendations
 
-BitAccess currently employs the white label strategy. If the bitcoin ecosystem were to develop into a mainstream standard currency, BitAccess could switch from their operator based model and instead form partnerships with companies that perform cash logistics in the ATM industry. BitAccess can be the provider of Software as a Service (SaaS) and build interfaces which would then allow partnering cash logistics companies to integrate the software into compatible traditional ATMs. This would enable further growth and greatly increase their revenues gathered from recurring transaction fees charged. In order to provide the SaaS solution, the developers at BitAccess would have to build robust and scalable APIs. Apart from the SaaS solution, BitAccess could increase their system's popularity by adapting and enabling their BTMs to exchange alternative cryptocurrencies such as Ether. Given Ether's sharp rise in value recently, along with its loyal followers that will constantly pick ether over bitcoin, it may be a differentiating factor in the Crypto ATM market to partner with an exchange to offer the solution to buy, sell and transfer between alternative popular cryptocurrencies through the CATM. The attractive part of this enhancement is that it can be done through a software update pushed through the network regardless of the CATM's global location. This update could in turn generate more revenue as the demand to use the CATMs will surely increase.
+BitAccess currently employs the white label strategy. If the bitcoin ecosystem were to develop into a mainstream standard currency, BitAccess could switch from their operator based model and instead form partnerships with companies that perform cash logistics in the ATM industry. BitAccess can be the provider of Software as a Service (SaaS) and build interfaces which would then allow partnering cash logistics companies to integrate the software into compatible traditional ATMs. This would enable further growth and greatly increase their revenues gathered from recurring transaction fees charged. In order to provide the SaaS solution, the developers at BitAccess would have to build robust and scalable APIs. Apart from the SaaS solution, BitAccess could increase their system's popularity by adapting and enabling their BTMs to exchange alternative cryptocurrencies such as Ether. Given Ether's sharp rise in value recently, along with its loyal followers that will constantly pick Ether over bitcoin - it may be a differentiating factor in the Crypto ATM market to partner with an exchange, in order to offer the solution to buy, sell and transfer between alternative popular cryptocurrencies through the CATM. The attractive part of this enhancement is that it can be done through a software update pushed through the network regardless of the CATM's global location. This update could in turn generate more revenue as the demand to use the CATMs will surely increase.
 
 
 - - - 
@@ -47,7 +47,7 @@ BitAccess currently employs the white label strategy. If the bitcoin ecosystem w
 
 [^1]: About Invest Ottawa. https://www.investottawa.ca/about-us/
 
-[^2]: Is Attending Y Combinator Worth it? https://www.cuboh.com/blog/is-attending-y-combinator-worthit
+[^2]: Cuboh. Is Attending Y Combinator Worth it? https://www.cuboh.com/blog/is-attending-y-combinator-worthit
 
 [^3]: CoinDesk. Bitcoin ATM Startup Joins YC's Incubator. https://www.coindesk.com/y-combinator-bitcoin-atm-startup-bitacess-incubator
 
@@ -69,4 +69,4 @@ BitAccess currently employs the white label strategy. If the bitcoin ecosystem w
 
 [^12]: Coin ATM Radar. Crypto ATM Installations by Manufacturer. https://coinatmradar.com/charts/manufacturer-share/
 
-[^13]: ie-knowledgehub. BitAccess: Developing blockchain technologies in an un-regulated market. https://ie-knowledgehub.ca/course/bitaccess-developing-blockchain-technologies-in-an-un-regulated-market/
+[^13]: Ie-knowledgehub. BitAccess: Developing blockchain technologies in an un-regulated market. https://ie-knowledgehub.ca/course/bitaccess-developing-blockchain-technologies-in-an-un-regulated-market/
