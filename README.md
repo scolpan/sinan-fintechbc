@@ -26,6 +26,7 @@ The BTMs simply consist of hardware and Software. By repurposing existing self-p
 
 BitAccess' initial intent and the following experience in the disruption of the payments industry through bitcoin also gives them an edge in following and responding to developments in other areas of blockchain technology. One such example is the Ethereum blockchain network. While bitcoin was created to solely act as a digital currency, the purpose of Ethereum's currency - Ether - is not to establish itself as an alternative monetary system, but rather act as fuel to propel a decentralized software platform that enables the deployment of smart contracts and decentralized applications.[^7] As a network, Ethereum enables the emergence of a low-cost sandbox for developers. The architecture of open source programming platforms mean that everyone can add information and programs to the framework's developer-available shared knowledge repository. Thus, when anyone produces something important, every other creator in the sandbox is able to take this construction to use it in their own product.[^8] This in turn results for a massive potential in innovation. Many technical individuals and large corporations such as ING Bank, Ubisoft and TD Ameritrade have since tapped into the world of Ethereum.[^9]
 
+
 ### Results
 
 Going back to the BTM business, BitAccess generates revenue from the sale of their BTM units along with recurring income through charging operators service fees. The operator is free to charge the service fee they desire on their BTMs, typically averaging between 5%-7% per transaction. BitAccess charges 20% of their own service fee of the fee that the operator charges. I.e. if the operator charges 5% per transaction, BitAccess would be charging an additional 1%. The key advantage that BitAccess has over it's competitors is that it has adopted this franchising model with the intention to work with the current banking system rather than trying to replace it. BitAccess partners with stakeholders and this leads to help grow the companies network.[^10] 
@@ -36,16 +37,13 @@ The core metrics that measure success for companies manufacturing Crypto ATM mac
 Having BitAccess in the top 3 of the worlds biggest CATM manufacturers definitely puts BitAccess at an advantage for an industry that is eventually bound to face market saturation.  
 
 
+### Recommendations
+
+BitAccess currently employs the white label strategy. If the bitcoin ecosystem were to develop into a mainstream standard currency, BitAccess could switch from their operator based model and instead form partnerships with companies that perform cash logistics in the ATM industry. BitAccess can be the provider of Software as a Service (SaaS) and build interfaces which the partnering cash logistics companies would integrate into compatible traditional ATMs. This would enable further growth and greatly increase their revenues gathered from recurring transaction fees they charge. In order to provide the SaaS solution, the developers at BitAccess would have to build robust and scalable APIs. Apart from the SaaS solution, BitAccess could increase their system's popularity by adapting and enabling their BTMs to exchange alternative crypto currencies such as ether. Given ether's sharp rise in value in the near past, and it's loyal fans that will always pick ether over bitcoin, it may be a differentiating factor in the Crypto ATM market to partner with an exchange to offer the solution to buy, sell and transfer between alternative popular cryptocurrencies through the CATM. The attractive part of this enhancement is that it can be done through a software update pushed through the network regardless of the CATM's global location. This update could in turn generate more revenue as the demand to use the CATMs will surely increase.
 
 
-
-
-
-
-
-
-
-#### References
+- - - 
+### References
 
 [^1]: About Invest Ottawa. https://www.investottawa.ca/about-us/
 
