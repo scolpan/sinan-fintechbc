@@ -23,7 +23,9 @@ The BTMs simply consist of hardware and Software. By repurposing existing self-p
 
 
 
+### Landscape
 
+BitAccess' initial intent and the following experience in the disruption of the payments industry through bitcoin also gives them an edge in following and responding to developments in the blockchain network. One such example is the Ethereum blockchain network. While bitcoin was created to solely act as a digital currency, the purpose of the Ethereum currency, Ether, is not to establish itself as an alternative monetary system, but rather act as fuel to propel a decentralized software platform that enables the deployment of smart contracts and decentralized applications.[^7] As a network, Ethereum enables the emergence of a low-cost sandbox for developers. The architecture of open source programming platforms mean that everyone can add information and programs to the framework's developer-available shared knowledge repository. Thus, when anyone produces something important, every other creator in the sandbox is able to take this construction to use it in their own product.[^8] This in turn results for a massive potential in innovation. Many technical individuals and large corporations such as ING Bank, Ubisoft and TD Ameritrade have since tapped into the world of Ethereum.[^9]
 
 
 
@@ -44,3 +46,6 @@ The BTMs simply consist of hardware and Software. By repurposing existing self-p
 [^4]: Investopedia. ATMs. https://www.investopedia.com/terms/a/atm.asp
 [^5]: Coin ATM Radar. Bitcoin ATM Industry Statistics Charts. https://coinatmradar.com/charts/
 [^6]: BitAccess Git Repo. https://github.com/bitaccess
+[^7]: Bitcoin vs. Ethereum: What's the Difference? https://www.investopedia.com/articles/investing/031416/bitcoin-vs-ethereum-driven-different-purposes.asp
+[^8]: Ethereum Is the Frontier of Financial Innovation. https://www.coindesk.com/ethereum-sandbox-financial-innovation
+[^9]: Large companies building on Ethereum
